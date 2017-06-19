@@ -28,7 +28,7 @@ public class GitHello {
                 "git config --list     aktualna konfiguracja\n" +
                 "\n" +
                 "git config --local --list\n" +
-                "\n" + " "+
+                "\n" +
                 "git config --global --list\n" +
                 "\n" +
                 "vim ~/.gitconfig    otwiera plik konfiguracyjny globalny (wszystkie repa danego usera)\n" +
