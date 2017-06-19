@@ -10,10 +10,7 @@ public class GitHello {
         System.out.println ("git add -u   dodaje do indexu pliki tracked\n" +
                 "\n" +
                 "git add -A   dodaje wszystko do indexu (tracked i untracked)\n" +
-                "\n" +
-                "git reset    wraca z indexem do stanu zsynchronizowanego z repo (cofa stagowanie zmian)\n" +
-                "\n" +
-                "git log      lista commitów\n" +
+
                 "\n" +
                 "git status   status plików\n" +
                 "\n" +
